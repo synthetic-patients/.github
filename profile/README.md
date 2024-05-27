@@ -18,7 +18,7 @@ docker pull syntheticpatients/base
 This will take a significant amount of time to download, as it currently is around 8GB. Once this has been completed, you can run the script by executing the following in your terminal:
 
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/synthetic-patients/synthetic-patients-containerized/main/code/run.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/synthetic-patients/install/main/run.sh)"
 ```
 
 This will launch the synthetic patient server using your OpenAI and ElevenLabs API. Once the server has completed launching, direct your browser to http://localhost:5000/client to begin interacting.
