@@ -28,4 +28,6 @@ This will launch the synthetic patient server using your OpenAI and ElevenLabs A
 - Because of docker's audio limitations, voice-recognition has been disabled. You will need to input text through a text field.
 - Depending on the computer running the server, response times may be quite slow. 
 
+### Video demonstration
 
+https://github.com/alexgoodell/synthetic-patients/assets/2191507/27cac321-b9de-4e79-a80d-fd93a50574c5
